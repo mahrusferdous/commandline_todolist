@@ -1,7 +1,7 @@
 # To Do List
 
 ## Description
-This is a commandline to do list application. It allows your to add tasks, mark tasks as done, and delete tasks. You can also view all tasks, view only the tasks that are not done, and view only the tasks that are done.
+This is a command line to do list application. It allows you to add tasks, mark tasks as done, and delete tasks. You can also view all tasks, view only the tasks that are not done, and view only the tasks that are done.
 
 ## How to Use
 
@@ -11,3 +11,7 @@ This is a commandline to do list application. It allows your to add tasks, mark 
 - Press 3 to mark tasks as complete
 - Press 4 to delete tasks 
 - Press 5 to exit the application
+
+### Additional information
+- Use numbers to navigate delete 
+- Use numbers to navigate mark task
